@@ -1,0 +1,22 @@
+{
+  "name": "vuepress-theme-ssy",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "ssy",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.67"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jary86506163nba/vuepress-theme-ssy.git"
+  },
+  "homepage": "https://github.com/jary86506163nba/vuepress-theme-ssy"
+}
